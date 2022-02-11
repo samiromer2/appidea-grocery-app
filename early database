@@ -1,0 +1,9 @@
+items:<br>
+itemname , descsmall , price , descbig , itemname small.<br> 
+members:<br>
+members name , username , password<br>
+itemssolds:<br>
+namemember , itemname ,quntity , price , pricetotal , ordernumber , orderdate<br>
+<br>
+feasure:<br>
+add to cart.
